@@ -36,16 +36,6 @@ a:focus-visible {
   outline-offset: 4px;
 }
 
-.preview-notice {
-  padding: 0.4rem 1rem;
-  background: var(--green);
-  color: #fff;
-  font-size: 0.75rem;
-  letter-spacing: 0.08em;
-  text-align: center;
-  text-transform: uppercase;
-}
-
 .site-header,
 .section-wrap,
 .site-footer {
