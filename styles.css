@@ -66,8 +66,8 @@ a:focus-visible {
 }
 
 .profile-photo {
-  width: 56px;
-  height: 56px;
+  width: 80px;
+  height: 80px;
   flex: 0 0 auto;
   margin-left: 0.4rem;
   border-radius: 50%;
